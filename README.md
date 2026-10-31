@@ -1,2 +1,6 @@
-# workflow-demo - Secure PR Workflow
+# workflow-demo: Secure PR Workflow
 Demo of a secure PR workflow
+
+## Contributing 
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
