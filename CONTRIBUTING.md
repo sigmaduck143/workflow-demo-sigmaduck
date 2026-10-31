@@ -9,3 +9,4 @@ Use short, imperative messages with a prefix, such as 'docs: add a contributing 
 ## Pull request
 - Link the related issue 
 - Keep PRs small and focused
+- Run the tests before opening a PR
