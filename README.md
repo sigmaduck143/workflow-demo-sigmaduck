@@ -1,4 +1,4 @@
-# workflow-demo: Engineering Workflow Demo
+# workflow-demo: Secure PR Workflow
 Demo of a secure PR workflow
 
 ## Contributing 
